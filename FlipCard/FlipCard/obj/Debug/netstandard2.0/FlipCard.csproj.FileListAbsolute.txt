@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\bin\Debug\netstandard2.0\FlipCard.deps.json
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\bin\Debug\netstandard2.0\FlipCard.dll
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\bin\Debug\netstandard2.0\ref\FlipCard.dll
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\bin\Debug\netstandard2.0\FlipCard.pdb
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\obj\Debug\netstandard2.0\FlipCard.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\obj\Debug\netstandard2.0\FlipCard.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\obj\Debug\netstandard2.0\FlipCard.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\obj\Debug\netstandard2.0\FlipCard.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\obj\Debug\netstandard2.0\FlipCard.dll
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\obj\Debug\netstandard2.0\ref\FlipCard.dll
+C:\Users\admin\Desktop\Projects\flip-card\FlipCard\FlipCard\obj\Debug\netstandard2.0\FlipCard.pdb
